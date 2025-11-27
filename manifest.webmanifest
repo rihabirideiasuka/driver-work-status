@@ -2,7 +2,7 @@
   "name": "ドライバー勤務状況",
   "short_name": "🚗勤務状況",
   "id": "./",
-  "start_url": "./index.html?src=pwa_v8",
+  "start_url": "./index.html?src=pwa_v2",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f9f5ee",
